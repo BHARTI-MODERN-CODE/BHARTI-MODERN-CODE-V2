@@ -4,7 +4,7 @@
 > **Author:** Emperor AD  
 > **System:** Postposition System / संबंध-सूचक पद प्रणाली  
 > **Status:** Locked & Final  
-> **Language:** Bharti Modern Code (BMC)  
+  
 
 ---
 
