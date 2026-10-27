@@ -1,5 +1,5 @@
 # 🇮🇳 BHARTI Language Framework (BMC)
-## 📂 Logical Conjunction & Contrast System — Master Copy (Version 1.0)
+## 📂 Logical Conjunction & Contrast System — Master Copy (Version 2.0)
 
 > **Author:** Emperor AD  
 > **System:** Logical Conjunction & Contrast System / तार्किक संयोजन और विरोध प्रणाली  
