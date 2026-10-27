@@ -1,5 +1,5 @@
 # 🇮🇳 BHARTI Language Framework (BMC)
-## 📂 Verb System — Master Specification (v1.1)
+## 📂 Verb System — Master Specification (V2.0)
 
 > **Author:** Emperor AD  
 > **System:** Verb System / क्रिया प्रणाली  
